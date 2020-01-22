@@ -1,0 +1,18 @@
+{
+  "pipelineId" : "streamset1ea4c6654-70cf-4046-9a15-515dc7d9edba",
+  "title" : "streamset1",
+  "description" : "",
+  "created" : 1579721585075,
+  "lastModified" : 1579723803028,
+  "creator" : "admin",
+  "lastModifier" : "admin",
+  "lastRev" : "0",
+  "uuid" : "85f7df42-e916-446e-a940-02149c9fbc97",
+  "valid" : true,
+  "metadata" : {
+    "labels" : [ ]
+  },
+  "name" : "streamset1ea4c6654-70cf-4046-9a15-515dc7d9edba",
+  "sdcVersion" : "3.9.0",
+  "sdcId" : "55465492-3d4d-11ea-83f0-a326901a3672"
+}

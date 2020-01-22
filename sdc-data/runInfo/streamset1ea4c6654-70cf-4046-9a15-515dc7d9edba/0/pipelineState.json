@@ -1,0 +1,18 @@
+{
+  "pipelineId" : "streamset1ea4c6654-70cf-4046-9a15-515dc7d9edba",
+  "rev" : "0",
+  "user" : "admin",
+  "status" : "EDITED",
+  "message" : "Pipeline edited",
+  "timeStamp" : 1579723803033,
+  "attributes" : {
+    "IS_REMOTE_PIPELINE" : false,
+    "RUNTIME_PARAMETERS" : null,
+    "INTERCEPTOR_CONFIGS" : [ ]
+  },
+  "executionMode" : "STANDALONE",
+  "metrics" : null,
+  "retryAttempt" : 0,
+  "nextRetryTimeStamp" : 0,
+  "name" : "streamset1ea4c6654-70cf-4046-9a15-515dc7d9edba"
+}

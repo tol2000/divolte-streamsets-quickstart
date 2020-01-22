@@ -1,9 +1,16 @@
-# ClickStream example with Divolte and StreamSets
+= ClickStream example with Divolte and StreamSets
 
 1. Install [Docker Compose](https://docs.docker.com/compose/install/)
 2. Clone this repository with `git clone`
 3. Go to repository folder
-4. `mkdir sdc-data credentials`
+4. `mkdir sdc-data credentials` +
+   may be needed `chmod a+w sdc-data/ && chmod a+w credentials/`
 5. Spin up containers with `docker-compose up`
 
 **For deployment in cloud (AWS, GCP, ...)**: Create firewall rule to open ports 8290 and 18630 for incoming TCP connections.
+
+== Streamset
+
+* Link: link:http://localhost:18630/[]
+* user/pass - admin/admin
+
