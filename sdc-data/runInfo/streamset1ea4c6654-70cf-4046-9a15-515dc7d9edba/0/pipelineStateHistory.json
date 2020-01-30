@@ -2178,3 +2178,93 @@
   "nextRetryTimeStamp" : 0,
   "name" : "streamset1ea4c6654-70cf-4046-9a15-515dc7d9edba"
 }
+{
+  "pipelineId" : "streamset1ea4c6654-70cf-4046-9a15-515dc7d9edba",
+  "rev" : "0",
+  "user" : "admin",
+  "status" : "STARTING",
+  "message" : null,
+  "timeStamp" : 1580393209122,
+  "attributes" : {
+    "IS_REMOTE_PIPELINE" : false,
+    "RUNTIME_PARAMETERS" : null,
+    "INTERCEPTOR_CONFIGS" : [ ]
+  },
+  "executionMode" : "STANDALONE",
+  "metrics" : null,
+  "retryAttempt" : 0,
+  "nextRetryTimeStamp" : 0,
+  "name" : "streamset1ea4c6654-70cf-4046-9a15-515dc7d9edba"
+}
+{
+  "pipelineId" : "streamset1ea4c6654-70cf-4046-9a15-515dc7d9edba",
+  "rev" : "0",
+  "user" : "admin",
+  "status" : "RUNNING",
+  "message" : null,
+  "timeStamp" : 1580393210557,
+  "attributes" : {
+    "IS_REMOTE_PIPELINE" : false,
+    "RUNTIME_PARAMETERS" : null,
+    "INTERCEPTOR_CONFIGS" : [ ]
+  },
+  "executionMode" : "STANDALONE",
+  "metrics" : null,
+  "retryAttempt" : 0,
+  "nextRetryTimeStamp" : 0,
+  "name" : "streamset1ea4c6654-70cf-4046-9a15-515dc7d9edba"
+}
+{
+  "pipelineId" : "streamset1ea4c6654-70cf-4046-9a15-515dc7d9edba",
+  "rev" : "0",
+  "user" : "admin",
+  "status" : "STOPPING",
+  "message" : null,
+  "timeStamp" : 1580393326667,
+  "attributes" : {
+    "IS_REMOTE_PIPELINE" : false,
+    "RUNTIME_PARAMETERS" : null,
+    "INTERCEPTOR_CONFIGS" : [ ]
+  },
+  "executionMode" : "STANDALONE",
+  "metrics" : null,
+  "retryAttempt" : 0,
+  "nextRetryTimeStamp" : 0,
+  "name" : "streamset1ea4c6654-70cf-4046-9a15-515dc7d9edba"
+}
+{
+  "pipelineId" : "streamset1ea4c6654-70cf-4046-9a15-515dc7d9edba",
+  "rev" : "0",
+  "user" : "admin",
+  "status" : "STOPPED",
+  "message" : "Pipeline was in STOPPING state, forcing it to terminal state of STOPPED",
+  "timeStamp" : 1580393615287,
+  "attributes" : {
+    "IS_REMOTE_PIPELINE" : false,
+    "RUNTIME_PARAMETERS" : null,
+    "INTERCEPTOR_CONFIGS" : [ ]
+  },
+  "executionMode" : "STANDALONE",
+  "metrics" : null,
+  "retryAttempt" : 0,
+  "nextRetryTimeStamp" : 0,
+  "name" : "streamset1ea4c6654-70cf-4046-9a15-515dc7d9edba"
+}
+{
+  "pipelineId" : "streamset1ea4c6654-70cf-4046-9a15-515dc7d9edba",
+  "rev" : "0",
+  "user" : "admin",
+  "status" : "EDITED",
+  "message" : "Pipeline edited",
+  "timeStamp" : 1580393724113,
+  "attributes" : {
+    "IS_REMOTE_PIPELINE" : false,
+    "RUNTIME_PARAMETERS" : null,
+    "INTERCEPTOR_CONFIGS" : [ ]
+  },
+  "executionMode" : "STANDALONE",
+  "metrics" : null,
+  "retryAttempt" : 0,
+  "nextRetryTimeStamp" : 0,
+  "name" : "streamset1ea4c6654-70cf-4046-9a15-515dc7d9edba"
+}
