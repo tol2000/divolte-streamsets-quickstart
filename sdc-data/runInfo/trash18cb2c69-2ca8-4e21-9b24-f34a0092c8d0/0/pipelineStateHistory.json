@@ -1,0 +1,16 @@
+{
+  "pipelineId" : "trash18cb2c69-2ca8-4e21-9b24-f34a0092c8d0",
+  "rev" : "0",
+  "user" : "admin",
+  "status" : "EDITED",
+  "message" : "Pipeline edited",
+  "timeStamp" : 1580393872252,
+  "attributes" : {
+    "IS_REMOTE_PIPELINE" : false
+  },
+  "executionMode" : "STANDALONE",
+  "metrics" : null,
+  "retryAttempt" : 0,
+  "nextRetryTimeStamp" : 0,
+  "name" : "trash18cb2c69-2ca8-4e21-9b24-f34a0092c8d0"
+}

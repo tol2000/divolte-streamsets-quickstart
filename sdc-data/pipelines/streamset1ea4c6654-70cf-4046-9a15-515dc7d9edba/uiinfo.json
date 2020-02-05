@@ -1,5 +1,24 @@
 {
-  "KafkaConsumer_01" : {
+  "FieldRemover_01" : {
+    "description" : "",
+    "label" : "Field Remover 1",
+    "xPos" : 344,
+    "yPos" : 50,
+    "stageType" : "PROCESSOR"
+  },
+  ":pipeline:" : {
+    "previewConfig" : {
+      "previewSource" : "CONFIGURED_SOURCE",
+      "batchSize" : "1",
+      "timeout" : 30000,
+      "writeToDestinations" : false,
+      "executeLifecycleEvents" : false,
+      "showHeader" : false,
+      "showFieldType" : true,
+      "rememberMe" : false
+    }
+  },
+  "KafkaMultitopicConsumer_01" : {
     "yPos" : 50,
     "stageType" : "SOURCE",
     "rawSource" : {
@@ -13,34 +32,19 @@
         "name" : "topic",
         "value" : "myTopic"
       }, {
-        "name" : "partition",
-        "value" : 0
-      }, {
-        "name" : "maxWaitTime",
+        "name" : "pollTimeout",
         "value" : 1000
       } ]
     },
     "description" : "",
-    "label" : "Kafka Consumer 1",
-    "xPos" : 59
-  },
-  ":pipeline:" : {
-    "previewConfig" : {
-      "previewSource" : "CONFIGURED_SOURCE",
-      "batchSize" : 10,
-      "timeout" : 30000,
-      "writeToDestinations" : false,
-      "executeLifecycleEvents" : false,
-      "showHeader" : false,
-      "showFieldType" : true,
-      "rememberMe" : false
-    }
+    "label" : "Kafka Multitopic Consumer 1",
+    "xPos" : 60
   },
   "LocalFS_01" : {
     "description" : "",
     "label" : "Local FS 1",
-    "xPos" : 277,
-    "yPos" : 51,
+    "xPos" : 564,
+    "yPos" : 50,
     "stageType" : "TARGET"
   }
 }
