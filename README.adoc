@@ -4,7 +4,7 @@
 2. Clone this repository with `git clone`
 3. Go to repository folder
 4. `mkdir sdc-data credentials` +
-   may be needed `chmod a+w sdc-data/ && chmod a+w credentials/`
+   may be needed `chmod a+w sdc-data/ -R && chmod a+w credentials/ -R`
 5. Spin up containers with `docker-compose up`
 
 **For deployment in cloud (AWS, GCP, ...)**: Create firewall rule to open ports 8290 and 18630 for incoming TCP connections.
